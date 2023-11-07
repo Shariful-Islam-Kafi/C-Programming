@@ -1,0 +1,10 @@
+9
+kafi 053 100
+ani 054 97
+nuri 052 93
+kafi 053 99
+ani 054 95
+nuri 052 90
+kafi 053 95
+ani 054 90
+nuri 052 90
